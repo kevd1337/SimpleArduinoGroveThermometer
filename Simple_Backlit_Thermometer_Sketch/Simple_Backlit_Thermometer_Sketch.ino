@@ -27,7 +27,7 @@
  3) Connect Button module to the digital port 3 (D3)  of grove shield using 4-pin grove cable
  4) Connect LCD RGB Backlight module to an I2C port of grove shield using 4-pin grove cable
  5) Compile and upload sketch to Arduino
- 6) (optional) connect 9v batter via 9V to Barrel Jack Adapter 
+ 6) (optional) connect 9v battery via 9V to Barrel Jack Adapter 
 */
 
 #include <Wire.h>
