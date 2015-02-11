@@ -22,7 +22,7 @@ NOTE: all of the Seeed Studio Grove componenets are available in the [Grove Star
 ![Screenshot](https://raw.githubusercontent.com/kevd1337/SimpleArduinoGroveThermometer/master/img/layout.jpg)
 
 # Prerequisites
-- Arduino IDE with Grove LCD RGB Backlight library installed ( https://github.com/Seeed-Studio/Sketchbook_Starter_Kit_V2.0/tree/master/libraries/Grove_LCD_RGB_Backlight )
+- [Arduino IDE](http://arduino.cc/) with [Grove LCD RGB Backlight library](https://github.com/Seeed-Studio/Sketchbook_Starter_Kit_V2.0/tree/master/libraries/Grove_LCD_RGB_Backlight) installed
  
 # Setup
 - Plug Grove Base Shield into Arduino
@@ -30,4 +30,4 @@ NOTE: all of the Seeed Studio Grove componenets are available in the [Grove Star
 - Connect Button module to the digital port 3 (D3)  of grove shield using 4-pin grove cable
 - Connect LCD RGB Backlight module to an I2C port of grove shield using 4-pin grove cable
 - Compile and upload sketch to Arduino
-- (optional) connect 9v batter via 9V to Barrel Jack Adapter 
+- (optional) connect 9v battery via 9V to Barrel Jack Adapter 
