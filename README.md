@@ -1,6 +1,6 @@
 # SimpleArduinoGroveThermometer
 
-Arduino sketch for a digital thermometer. Temperature is displayed in F & C on an LCD which has a backlight that can be toggled on and off via a button. 
+Arduino sketch for a digital thermometer. Temperature is displayed in celsius and fahrenheit on an LCD which has a backlight that can be toggled on and off via a button.
 
 ![Screenshot](https://raw.githubusercontent.com/kevd1337/SimpleArduinoGroveThermometer/master/img/in-action.jpg)
 
